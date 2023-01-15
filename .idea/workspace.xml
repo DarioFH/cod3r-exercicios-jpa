@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="915aabb5-d069-4509-91ce-a224b6e45cd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -69,33 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoverUsuario">
-    <configuration name="AlterarUsuario1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teste.basico.AlterarUsuario1" />
-      <module name="exercicios-jpa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="teste.basico.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlterarUsuario2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teste.basico.AlterarUsuario2" />
-      <module name="exercicios-jpa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="teste.basico.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ObterProdutos">
     <configuration name="AlterarUsuario3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="teste.basico.AlterarUsuario3" />
       <module name="exercicios-jpa" />
@@ -109,8 +74,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NovoUsuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teste.basico.NovoUsuario" />
+    <configuration name="NovoProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.basico.NovoProduto" />
+      <module name="exercicios-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObterProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.basico.ObterProdutos" />
+      <module name="exercicios-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObterUsuarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.basico.ObterUsuarios" />
       <module name="exercicios-jpa" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObterProdutos" />
+        <item itemvalue="Application.NovoProduto" />
+        <item itemvalue="Application.ObterUsuarios" />
         <item itemvalue="Application.RemoverUsuario" />
         <item itemvalue="Application.AlterarUsuario3" />
-        <item itemvalue="Application.AlterarUsuario2" />
-        <item itemvalue="Application.AlterarUsuario1" />
-        <item itemvalue="Application.NovoUsuario" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +146,7 @@
       <updated>1673342780443</updated>
       <workItem from="1673342781526" duration="10195000" />
       <workItem from="1673609885634" duration="12000" />
-      <workItem from="1673619196347" duration="5201000" />
+      <workItem from="1673619196347" duration="14514000" />
     </task>
     <servers />
   </component>

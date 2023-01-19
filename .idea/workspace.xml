@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="915aabb5-d069-4509-91ce-a224b6e45cd3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/infra/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/infra/DAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +57,11 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ObterClienteAssento">
+  <component name="RunManager" selected="Application.ObterPedido">
     <configuration name="NovoClienteAssento1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="teste.umpraum.NovoClienteAssento1" />
       <module name="exercicios-jpa" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NovoProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teste.basico.NovoProduto" />
+    <configuration name="NovoPedido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.umpramuitos.NovoPedido" />
       <module name="exercicios-jpa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="teste.basico.*" />
+          <option name="PATTERN" value="teste.umpramuitos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObterProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teste.basico.ObterProdutos" />
+    <configuration name="ObterPedido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.umpramuitos.ObterPedido" />
       <module name="exercicios-jpa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="teste.basico.*" />
+          <option name="PATTERN" value="teste.umpramuitos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObterPedido" />
+        <item itemvalue="Application.NovoPedido" />
         <item itemvalue="Application.ObterClienteAssento" />
         <item itemvalue="Application.NovoClienteAssento2" />
         <item itemvalue="Application.NovoClienteAssento1" />
-        <item itemvalue="Application.ObterProdutos" />
-        <item itemvalue="Application.NovoProduto" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,8 @@
       <updated>1673342780443</updated>
       <workItem from="1673342781526" duration="10195000" />
       <workItem from="1673609885634" duration="12000" />
-      <workItem from="1673619196347" duration="25759000" />
+      <workItem from="1673619196347" duration="32417000" />
+      <workItem from="1673989029312" duration="4339000" />
     </task>
     <servers />
   </component>
